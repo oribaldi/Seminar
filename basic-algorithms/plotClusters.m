@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Function that plosts the clusters found in the data "file", by the 
-% chosed algorithm "algo".
+% chosed algorithm "algo" Based on: https://github.com/jagatsastry/ml-clustering-algos/.
 %
 % Call k-means:
 % plotClusters('myFile.data', xLimit, yLimit, numberOfClusters, @k_means, 0)
